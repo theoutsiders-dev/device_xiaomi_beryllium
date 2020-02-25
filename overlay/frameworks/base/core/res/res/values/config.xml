@@ -292,4 +292,7 @@
     <!-- Enable the RingtonePickerActivity in 'com.android.providers.media'. -->
     <bool name="config_defaultRingtonePickerEnabled">true</bool>
 
+    <!-- Whether the default emergency settings should be shown. -->
+    <bool name="config_showDefaultEmergency">true</bool>
+
 </resources>
